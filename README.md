@@ -9,8 +9,8 @@ Although existing camouflaged object detection (COD) approaches have developed v
 ## Links
 
 
-- [Results](通过百度网盘分享的文件：https://pan.baidu.com/s/15u_6SWNKlCGK_H0hIIkEaQ 
-)  提取码：fxss
+- [Results](https://pan.baidu.com/s/15u_6SWNKlCGK_H0hIIkEaQ](https://pan.baidu.com/s/15u_6SWNKlCGK_H0hIIkEaQ)
+- 提取码：fxss
 
 
 
